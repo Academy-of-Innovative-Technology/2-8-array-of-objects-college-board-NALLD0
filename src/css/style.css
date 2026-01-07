@@ -27,10 +27,11 @@ html {
 	display: inline-block;
 }
 
-.college-info h5 {
+.college-info h5,h6,h7,h8,h9 {
 	font-size: 32px;
 	margin-bottom: 10px;
 }
+
 
 .college-info p {
 	margin: 5px 0;
